@@ -54,7 +54,7 @@
   <h2>Contact Us</h2>
   <p>
     If you have questions or concerns, contact us at:  
-    <strong>vivek@example.com</strong>
+    <strong>vivekkusha73@gmail.com</strong>
   </p>
 </body>
 </html>
